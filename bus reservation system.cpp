@@ -1,7 +1,3 @@
-#include <conio.h>
-
-#include <cstdio>
-
 #include <iostream>
 
 #include <string.h>
